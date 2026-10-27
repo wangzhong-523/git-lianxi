@@ -1,0 +1,16 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境
+.venv/
+venv/
+
+# 编辑器与系统文件
+.vscode/
+.idea/
+.DS_Store
+
+# 环境变量与运行产物
+.env
+*.log
